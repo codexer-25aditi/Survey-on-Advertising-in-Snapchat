@@ -56,6 +56,8 @@ The Dashboard can compair two counties based on how much money spent on them by 
 The Dashboard will show the money spent on different countries from 2018 to 2019.
 
 ## dashboard:
+![dashboard](https://github.com/codexer-25aditi/Survey-on-Advertising-in-Snapchat/assets/80665069/ca785094-8002-44ac-bf86-c091a3eda7d0)
+
 
 ## Finding:
 
