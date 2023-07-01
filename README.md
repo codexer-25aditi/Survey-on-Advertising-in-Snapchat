@@ -5,7 +5,7 @@
 
 •	Performed Data cleaning in MS Excel and used SQl for better Data Analysis Process.
 
-•	Developed a Tableau dashboard to perform analysis, producing quantitative visualizations in Tableau to draw valuable insights based on how Snapchat targets its audience based on different factors and how big events has big impacts on social media uses.
+•	Developed a Tableau dashboard to perform analysis, producing quantitative visualizations in Tableau to draw valuable insights based on how Snapchat targets its audience in relation to different factors and how notable events have such massive impacts on social media users.
 
 ![snapchat](https://github.com/codexer-25aditi/Survey-on-Advertising-in-Snapchat/assets/80665069/954da267-7687-4357-a5b1-3111191382a6)
 Survey-on-Advertising-in-Snapchat
