@@ -18,7 +18,7 @@ The goal of this project is to practice creating and interpreting different type
 • Data subset collected from online.
 • Loading Libraries
 • Data Cleaning & Finding Missing values
-• Data Visualization
+• Data Visualization and integration
 
 ## DASHBOARD CONTAINS
 
