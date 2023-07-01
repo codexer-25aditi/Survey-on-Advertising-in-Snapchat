@@ -1,7 +1,7 @@
 
 # Hi, we are Prakshi, Aditi, Anushka and Shraddha from group 6👋
 
-•	We Performed how Snapchat, a social media app Targets its audience for ads, full data analysis process.
+•	We Performed how Snapchat, a social media app Targets its audience using ads and its full data analysis process.
 
 •	Performed Data cleaning in MS Excel and used SQl for better Data Analysis Process.
 
