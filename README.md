@@ -1,11 +1,11 @@
 
 # Hi, we are Prakshi, Aditi, Anushka and Shraddha from group 6👋
 
-•	We Performed how Snapchat, a social media app Targets its audience for ads, full data analysis process.
+•	We Performed how Snapchat, a social media app Targets its audience using ads and its full data analysis process.
 
 •	Performed Data cleaning in MS Excel and used SQl for better Data Analysis Process.
 
-•	Developed a Tableau dashboard to perform analysis, producing quantitative visualizations in Tableau to draw valuable insights based on how Snapchat targets its audience based on different factors and how big events has big impacts on social media uses.
+•	Developed a Tableau dashboard to perform analysis, producing quantitative visualizations in Tableau to draw valuable insights based on how Snapchat targets its audience in relation to different factors and how notable events have such massive impacts on social media users.
 
 ![snapchat](https://github.com/codexer-25aditi/Survey-on-Advertising-in-Snapchat/assets/80665069/954da267-7687-4357-a5b1-3111191382a6)
 Survey-on-Advertising-in-Snapchat
@@ -18,7 +18,7 @@ The goal of this project is to practice creating and interpreting different type
 • Data subset collected from online.
 • Loading Libraries
 • Data Cleaning & Finding Missing values
-• Data Visualization
+• Data Visualization and integration
 
 ## DASHBOARD CONTAINS
 
@@ -66,4 +66,4 @@ For the 5 countries in which snapchat ads are more popular, Each country experie
 Of the 29 countries in this dataset, only Denmark and Iraq have shown a decrease in spending on snapchat ads whilst all the other countries have shown an increase in spending.
 The younger generation must be particularly careful on the influence we allow political ads to have on our decisions. As an 18 year old, 75% of these ads are targeting you and some ads are targeting individuals as young as 14 years old.
 We should also be more mindful of the influence advertisements may have on us as we reach election dates to ensure we are not influenced by biased ads, the same way we try and avoid being influenced by biased news sources.
-
+check out the web page : https://codexer-25aditi.github.io/Survey-on-Advertising-in-Snapchat/
