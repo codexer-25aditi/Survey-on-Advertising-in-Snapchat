@@ -1,5 +1,5 @@
 
-# Hi, we are Prakshi, Aditi, Anushka and Shraddha from group 6👋
+# Hi! we are Prakshi, Aditi, Anushka and Shraddha from group 6👋
 
 •	We Performed how Snapchat, a social media app Targets its audience using ads and its full data analysis process.
 
